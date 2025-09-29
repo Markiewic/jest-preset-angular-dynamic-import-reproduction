@@ -1,0 +1,6 @@
+{
+  "include": ["./**.spec.ts", "./setup-jest.ts"],
+  "compilerOptions": {
+    "types": ["jest"]
+  }
+}
