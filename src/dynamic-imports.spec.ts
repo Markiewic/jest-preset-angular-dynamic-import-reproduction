@@ -1,5 +1,5 @@
 /**
- * Imagine that this import is not from the neighboring file, but to the installed package. For example @taiga-UI/editor.
+ * Imagine that this import is not from the neighboring file, but from the installed package. For example @taiga-ui/editor.
  * I did not install it here, because it has a lot of dependencies, but the effect is the same.
  */
 import { dynImport } from "./module-with-dynamic-import.mjs";
